@@ -2,7 +2,6 @@
   "name": "node-typescript-structure",
   "version": "1.0.0",
   "main": "index.js",
-  "author": "Gabriel França Loureiro <gabrieloureirof@gmail.com>",
   "license": "MIT",
   "config": {
     "main_dev": "src/server.ts",
